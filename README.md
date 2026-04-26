@@ -37,9 +37,9 @@ var Lisa = {
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/lisanogueira/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
-  <a href="https://x.com/liswstr" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lisanogueira/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/liswstr" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://dev.to" target="_blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" /></a>
-</div>
+</p>
