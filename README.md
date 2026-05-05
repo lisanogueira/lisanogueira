@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I'm Heloisa Nogueira</h1> <h3 align="center"> Back-end Developer | Web Development | Cloud Computing | Network Infrastructure </h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=lisanogueira&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
-var lisa = {
+
+
+```dart
+var Lisa = {
   'age': 19,
   'country': 'Brazil',
-  'city': 'Petropolis, Rio de Janeiro',
-  'languages': ['Portuguese-BR', 'English', 'Spanish'],
-  'interests': [
-    'Back-end Development',
-    'Web Development',
-    'Cloud Computing',
-    'Network Infrastructure'
-  ],
-  'hobbies': ['Studying', 'Reading', 'Programming', 'Design', 'Sports'],
+  'city': 'Petrópolis, Rio de Janeiro',
+  'languages': ['Portugues-BR', 'English', 'Spanish'],
+  'interests': ['Back-end', 'Developer Web', 'Cloud Computing', 'Networks Infrastructure'],
+  'hobbies': ['Studies & Reading', 'Programming', 'Design', 'Sports'],
 };
+```
+
 About Me
 I'm a technology student from Brazil, focused on building clean, useful and scalable solutions.
 
