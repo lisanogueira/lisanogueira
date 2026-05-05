@@ -12,7 +12,7 @@ var Lisa = {
 };
 ```
 
-About Me
+## About Me
 I'm a technology student from Brazil, focused on building clean, useful and scalable solutions.
 
 I enjoy working with back-end development, APIs, databases, cloud concepts and network infrastructure. I also like studying design because I believe good software should be functional, clear and pleasant to use.
